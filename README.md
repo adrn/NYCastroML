@@ -15,7 +15,7 @@ Adrian presents 1.5 Josh presents 1.6 Sign up to present Chapter 2 Sections�
 _Read Chapter 2_
 _Finalize your Setup_  
 
-**(Week of) February 3**
+**(Week of) February 3**  
 Present Chapter 2  
 Hack Chapter 2   
 _Read Chapter 3_

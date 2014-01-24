@@ -1,4 +1,7 @@
 ###Syllabus for NYCastroML  
+_Warning! There are no instructors! This is not a course!_  
+_NYCastroML coordinators are: Josh Peek (goldston@gmail.com), Federica Bianco (fb55@nyu.edu), and Adrian Price-Whelan (adrianmpw@gmail.com)_  
+
 
 **January 24**  
 Introduction: Josh  

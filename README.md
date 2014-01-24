@@ -6,19 +6,21 @@ General idea behind structure of reading group: Mouth and Fingers 
 Example of how to present a section / Presentations on Sections 1.1, 1.2, 1.3: Josh   
 Decide on time we are meeting (bring your calendar): All  
 
-Homework If you don't know Python, install it (Anaconda?) and give it a whirl on Codeacademy.com   
-If you don't have Git, get it Install astroML Read Chapter 1  
+_Homework If you don't know Python, install it (Anaconda) and give it a whirl on Codeacademy.com_   
+_If you don't have Git, get it, clone NYCastroML_  
+_Install astroML Read Chapter 1_  
 
 #####(Week of) January 27  
 Adrian presents 1.5 Josh presents 1.6 Sign up to present Chapter 2 Sections Test Hack / Setup Fest (?)  
-Read Chapter 2 Finalize your Setup  
+_Read Chapter 2_
+_Finalize your Setup_  
 
 #####(Week of) February 3
 Present Chapter 2  
 Hack Chapter 2   
 /Read Chapter 3/  
 
-February 10 Present Chapter 3
+**February 10** Present Chapter 3
 
 February 17 Hack Chapter 3
 

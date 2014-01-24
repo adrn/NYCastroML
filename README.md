@@ -8,8 +8,7 @@ _NYCastroML coordinators are:_
 
 
 **January 24**  
-Introduction: Josh  
-General idea behind structure of reading group: Mouth and Fingers  
+Introduction: Josh, General idea behind structure of reading group: Mouth and Fingers  
 Example of how to present a section  
 Presentations on Sections 1.1, 1.2, 1.3: Josh  
 Decide on time we are meeting (bring your calendar): All  

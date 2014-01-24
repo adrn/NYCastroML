@@ -1,25 +1,32 @@
 ###Syllabus for NYCastroML  
-_Warning! There are no instructors! This is not a course!_  
-_NYCastroML coordinators are: Josh Peek (goldston@gmail.com), Federica Bianco (fb55@nyu.edu), and Adrian Price-Whelan (adrianmpw@gmail.com)_  
+__Warning! There are no instructors! This is not a course!__
+
+_NYCastroML coordinators are:_
+ - Josh Peek (goldston@gmail.com)
+ - Federica Bianco (fb55@nyu.edu)
+ - Adrian Price-Whelan (adrianmpw@gmail.com)
 
 
 **January 24**  
 Introduction: Josh  
-General idea behind structure of reading group: Mouth and Fingers 
-Example of how to present a section / Presentations on Sections 1.1, 1.2, 1.3: Josh   
+General idea behind structure of reading group: Mouth and Fingers  
+Example of how to present a section  
+Presentations on Sections 1.1, 1.2, 1.3: Josh  
 Decide on time we are meeting (bring your calendar): All  
-
-_Homework If you don't know Python, install it (Anaconda) and give it a whirl on Codeacademy.com_   
+_Homework: If you don't know Python, install it (Anaconda) and give it a whirl on Codeacademy.com_   
 _If you don't have Git, get it, clone NYCastroML_  
 _Install astroML Read Chapter 1_  
 
 **(Week of) January 27**  
-Adrian presents 1.5 Josh presents 1.6 Sign up to present Chapter 2 Sections Test Hack / Setup Fest (?)  
+Adrian presents 1.5  
+Josh presents 1.6  
+Sign up to present Chapter 2 Sections  
+Test Hack / Setup Fest (?)  
 _Read Chapter 2_
 _Finalize your Setup_  
 
 **(Week of) February 3**  
-Present Chapter 2  
+Present Chapter 2   
 Hack Chapter 2   
 _Read Chapter 3_
 

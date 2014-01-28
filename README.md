@@ -18,7 +18,8 @@ _Install astroML Read Chapter 1_
 
 **(Week of) January 27**  
 Adrian presents 1.5  
-Josh presents 1.6  
+Fed presents 1.6  
+Josh presents 1.6.3  
 Sign up to present Chapter 2 Sections  
 Test Hack / Setup Fest (?)  
 _Read Chapter 2_

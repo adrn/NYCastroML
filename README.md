@@ -7,7 +7,7 @@ _NYCastroML coordinators are:_
  - Adrian Price-Whelan (adrianmpw@gmail.com)
 
 
-**January 24**
+**January 24**  
 Introduction: Josh, General idea behind structure of reading group: Mouth and Fingers  
 Example of how to present a section  
 Presentations on Sections 1.1, 1.2, 1.3: Josh  
@@ -16,7 +16,7 @@ _Homework: If you don't know Python, install it (Anaconda) and give it a whirl o
 _If you don't have Git, get it, clone NYCastroML_  
 _Install astroML Read Chapter 1_  
 
-**(Week of) January 27**
+**(Week of) January 27**  
 <a href="http://nbviewer.ipython.org/github/adrn/NYCastroML/blob/master/Chapter1/Section_1.5.ipynb?create=1">Adrian presents 1.5</a>  
 Fed presents 1.6  
 Josh presents 1.6.3  

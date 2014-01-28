@@ -8,22 +8,22 @@ _NYCastroML coordinators are:_
 
 
 **January 24**
-Introduction: Josh, General idea behind structure of reading group: Mouth and Fingers
-Example of how to present a section
-Presentations on Sections 1.1, 1.2, 1.3: Josh
-Decide on time we are meeting (bring your calendar): All
-_Homework: If you don't know Python, install it (Anaconda) and give it a whirl on Codeacademy.com_
-_If you don't have Git, get it, clone NYCastroML_
-_Install astroML Read Chapter 1_
+Introduction: Josh, General idea behind structure of reading group: Mouth and Fingers  
+Example of how to present a section  
+Presentations on Sections 1.1, 1.2, 1.3: Josh  
+Decide on time we are meeting (bring your calendar): All  
+_Homework: If you don't know Python, install it (Anaconda) and give it a whirl on Codeacademy.com_  
+_If you don't have Git, get it, clone NYCastroML_  
+_Install astroML Read Chapter 1_  
 
 **(Week of) January 27**
-<a href="http://nbviewer.ipython.org/github/adrn/NYCastroML/blob/master/Chapter1/Section_1.5.ipynb?create=1">Adrian presents 1.5</a>
-Fed presents 1.6
-Josh presents 1.6.3
-Sign up to present Chapter 2 Sections
-Test Hack / Setup Fest (?)
-_Read Chapter 2_
-_Finalize your Setup_
+<a href="http://nbviewer.ipython.org/github/adrn/NYCastroML/blob/master/Chapter1/Section_1.5.ipynb?create=1">Adrian presents 1.5</a>  
+Fed presents 1.6  
+Josh presents 1.6.3  
+Sign up to present Chapter 2 Sections  
+Test Hack / Setup Fest (?)  
+_Read Chapter 2_  
+_Finalize your Setup_  
 
 **(Week of) February 3**
 Present Chapter 2

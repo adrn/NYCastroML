@@ -19,10 +19,13 @@ def fit_gaussian_mixture(x,Ngauss,Niterations=10):
 	x = x[:,np.newaxis]
 	
 	#Guess for the mixture parameters
-	if(len(x)!=2):
-		mu_guess = x[np.random.randint(0,len(x),Ngauss),0]
-	else:
+	if(Ngauss==2):
 		mu_guess = np.array([x.min(),x.max()])
+		print mu_guess
+	elif(Ngauss==1):
+		mu_guess = np.array([x.mean()])
+	else:
+		mu_guess = x[np.random.randint(0,len(x),Ngauss),0]
 	
 	sigma2_guess = np.ones(Ngauss)*x.var()
 	alpha_guess = np.ones(Ngauss)*(1.0/Ngauss)
@@ -123,7 +126,7 @@ pdf = mixture_pdf(p,a,m,np.sqrt(s))
 plt.plot(p,pdf,label="One gaussian")
 
 plt.xlabel("$\lambda$")
-plt.ylabel("$I_\lambda$")
+plt.ylabel("$I_\lambda/I_{tot}$")
 plt.legend(loc="upper left")
 
 plt.savefig("spectral2.png")

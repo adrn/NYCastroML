@@ -45,60 +45,60 @@ _NYCastroML coordinators are:_
 
 ## February 18
 
-Hack Chapter 3
+- Hack Chapter 3
 
 ## February 25
 
-Present Chapter 4
+- Present Chapter 4
 
 ## March 4
 
-Hack Chapter 4
+- Hack Chapter 4
 
 ## March 11
 
-Present Chapter 5
+- Present Chapter 5
 
 ## March 18
 
-Hack Chapter 5
+- Hack Chapter 5
 
 ## March 25
 
-Present Chapter 6
+- Present Chapter 6
 
 ## April 1
 
-Hack Chapter 6
+- Hack Chapter 6
 
 ## April 8
 
-Present Chapter 7
+- Present Chapter 7
 
 ## April 15
 
-Hack Chapter 7
+- Hack Chapter 7
 
 ## April 22
 
-Present Chapter 8
+- Present Chapter 8
 
 ## April 29
 
-Hack Chapter 8
+- Hack Chapter 8
 
 ## May 6
 
-Present Chapter 9
+- Present Chapter 9
 
 ## May 13
 
-Hack Chapter 9
+- Hack Chapter 9
 
 ## May 20
 
-Present Chapter 10
+- Present Chapter 10
 
 ## May 27
 
-Hack Chapter 10
+- Hack Chapter 10

@@ -61,6 +61,7 @@ _NYCastroML coordinators are:_
 
 ## March 18
 
+- *Spring break for some institutions.*
 - Hack Chapter 5
 
 ## March 25

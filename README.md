@@ -42,6 +42,10 @@ _NYCastroML coordinators are:_
 ## February 11
 
 - Present Chapter 3
+  - Or: Sections 3.1-3.2
+  - APW: Section 3.3
+  - Andrews: Sections 3.4-3.7
+  - Random Numbers, Monty Hall
 
 ## February 18
 
@@ -50,6 +54,8 @@ _NYCastroML coordinators are:_
 ## February 25
 
 - Present Chapter 4
+  - Corrales: Sections 4.1-4.4
+  - Bianco: Sections 4.5-4.7, 4.8-4.10
 
 ## March 4
 
@@ -58,6 +64,10 @@ _NYCastroML coordinators are:_
 ## March 11
 
 - Present Chapter 5
+  - Hogg: Section 5.1
+  - Weaver: Sections 5.2-5.4
+  - DFM: Section 5.8
+  - APW: Fitting with MCMC
 
 ## March 18
 
@@ -66,40 +76,51 @@ _NYCastroML coordinators are:_
 
 ## March 25
 
-- Present Chapter 6
+- More Chapter 5
 
 ## April 1
 
-- Hack Chapter 6
+- Hack Chapter 5
 
 ## April 8
 
-- Present Chapter 7
+- Present Chapter 6
+  - Petri: Sections 6.1-6.2
+  - APW: Section 6.3
+  - Corrales: Sections 6.4-6.6
 
 ## April 15
 
-- Hack Chapter 7
+- Hack Chapter 6
 
 ## April 22
 
-- Present Chapter 8
+- Present Chapter 7
 
 ## April 29
 
-- Hack Chapter 8
+- Hack Chapter 7
 
 ## May 6
 
-- Present Chapter 9
+- Present Chapter 8
 
 ## May 13
 
-- Hack Chapter 9
+- Hack Chapter 8
 
 ## May 20
 
-- Present Chapter 10
+- Present Chapter 9
 
 ## May 27
+
+- Hack Chapter 9
+
+## June 3
+
+- Present Chapter 10
+
+## June 10
 
 - Hack Chapter 10

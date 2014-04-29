@@ -104,6 +104,9 @@ _NYCastroML coordinators are:_
 ## May 6
 
 - Present Chapter 8
+  - Peek: Sections 8.1-8.4
+  - APW: Section 8.5-8.7
+  - Cruz: Sections 8.8-8.12
 
 ## May 13
 

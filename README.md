@@ -126,3 +126,6 @@ _NYCastroML coordinators are:_
   - Peek: Sections 10.1 -- 10.2
   - DF-M: Section 10.3
   - Corrales: 10.4 -- 10.6 
+
+- Group Discussion: Do the Right Thing?
+- Hack

@@ -123,7 +123,6 @@ _NYCastroML coordinators are:_
 ## June 6 - All Day Hackathon
 
 - Present Chapter 10
-- Hack!
-- Pizza!
-- Hack!
-- Drink!
+  - Peek: Sections 10.1 -- 10.2
+  - DF-M: Section 10.3
+  - Corrales: 10.4 -- 10.6 
